@@ -18,6 +18,6 @@ would like to include.
 ## Links
 
 
-<a href="https://vilas-izquierdo.github.io/portfolio-of-works/">Deployed Page</a>
+<a href="https://vilas-izquierdo.github.io/the-password-generator/>Deployed Page</a>
 
 <a href="https://github.com/vilas-izquierdo/the-password-generator">GitHub</a>k
